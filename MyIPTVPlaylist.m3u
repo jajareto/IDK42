@@ -27,7 +27,7 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158616
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #Canal 2 - Las Estrellas
-#EXTINF:-1 group-title="LOCALES", Las Estrellas
+#EXTINF:-1 group-title="LOCALES",Las Estrellas
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26945.m3u8
 
 #FORO TV
@@ -35,11 +35,11 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26945.m3u8
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26979.m3u8
 
 #Canal 5
-#EXTINF:-1 group-title="LOCALES", Canal 5
+#EXTINF:-1 group-title="LOCALES",Canal 5
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26973.m3u8
 
 #Canal 6
-#EXTINF:-1 group-title="LOCALES", Canal 6 CDMX
+#EXTINF:-1 group-title="LOCALES",Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
 
 #Canal 7
@@ -47,7 +47,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #Canal Once
-#EXTINF:-1 group-title="LOCALES", Canal Once (X)(1080)
+#EXTINF:-1 group-title="LOCALES",Canal Once (X)(1080)
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1343.m3u8
 
 #Canal Once.3
