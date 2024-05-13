@@ -1,0 +1,111 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+
+########## TV NACIONAL NUMERADA MENOS HORAS ########## 
+
+#AZTECA UNO -1 HORAS
+#EXTINF:-1 group-title="LOCALES",AZTECA UNO -1 HORAS
+http://bgtv.xyz/play/play-551.php?tlat=52&token=rtdyertyrtyr
+
+#EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
+http://bgtv.xyz/play/play-551.php?tlat=52&token=rtdyertyrtyr
+
+#EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
+http://bgtv.xyz/play/play-551.php?tlat=111&token=rtdyertyrtyr
+
+#AZTECA UNO -2 HORAS
+#EXTINF:-1 group-title="LOCALES",AZTECA UNO -2 HORAS
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/156218
+
+#AZTECA 7 -2 HORAS
+#EXTINF:-1 group-title="LOCALES",AZTECA 7 -2 HORAS
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158616
+
+########## TV NACIONAL NUMERADA ########## 
+
+#Azteca Uno
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png" group-title="LOCALES", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#Canal 2 - Las Estrellas
+#EXTINF:-1 group-title="LOCALES", Las Estrellas
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26945.m3u8
+
+#FORO TV
+#EXTINF:-1 group-title="LOCALES",Foro TV
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26979.m3u8
+
+#Canal 5
+#EXTINF:-1 group-title="LOCALES", Canal 5
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26973.m3u8
+
+#Canal 6
+#EXTINF:-1 group-title="LOCALES", Canal 6 CDMX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
+
+#Canal 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png" group-title="LOCALES", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#Canal Once
+#EXTINF:-1 group-title="LOCALES", Canal Once (X)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1343.m3u8
+
+#Canal Once.3
+#EXTINF:-1 tvg-id="" tvg-name="Once.3" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="LOCALES",Once.3
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+
+#Canal 14
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="LOCALES",Canal Catorce
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+
+#Canal 22
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png" group-title="LOCALES",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+
+########## TV NACIONAL SIN NUMERO ########## 
+
+#TV Migrante
+#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="LOCALES",TV Migrante
+https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8
+
+#
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png" group-title="LOCALES",TV UNAM
+https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
+
+#TV UNAM
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="LOCALES",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#A+
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="LOCALES",A MÁS
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#ADN40
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="LOCALES",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+#Milenio TV
+#EXTINF:-1 group-title="INFORMACIÓN",Milenio TV
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1352.m3u8
+
+
+########## TV NACIONAL DE PAGA ########## 
+
+#MVS TV
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="LOCALES",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+########## TV INTERNACIONAL ########## 
+
+
+
+
+########## TV EN OTROS IDIOMAS ########## 
+
+
+
+########## CANALES INDEPENDIENTES ########## 
+#EXTINF:-1 group-title="24/7", 24/7 Peliculas 4K - 2022 (e)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/225771.m3u8
